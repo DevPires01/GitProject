@@ -2,8 +2,6 @@ Manual de uso para o Git
 Alteração inicial
 # Tutorial de uso do Git na prática
  
-## Instalando o GIT
-
 ## Criar um projeto novo
 
 * Criar uma nova pasta no PC pra isso chamada `Git Tutorial`
